@@ -4,7 +4,7 @@
 
 ### NLP for fake news detections
 
-The goal was to develop a machine learning model for classifying news articles as either reliable or unreliable based on their content. The project encompassed data preprocessing, data analysis and data exploration tasks in the text. Several machine learning models were trained and evaluated. Additionally, model interpretability was explored using SHAP values to understand the key features influencing predictions. Finally, a machine learning pipeline was established for text classification, making it possible to predict the reliability of news articles using the trained model.
+The goal was to develop a machine learning model for classifying news articles as either reliable or unreliable based on their content. The project included text data preprocessing, data analysis, and data exploration tasks. Several machine learning models were trained and evaluated. Additionally, model interpretability was explored using SHAP values to understand the key features influencing predictions. Finally, packaged the preprocessing steps and the trained model into a machine learning pipeline making it possible to predict the reliability of news articles in a single line.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; max-width: 300px;">
