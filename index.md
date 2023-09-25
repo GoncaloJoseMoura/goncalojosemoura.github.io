@@ -1,29 +1,19 @@
-## Portfolio
+## Selected projects in data science, machine learning and NLP
 
 ---
 
-### Category Name 1 
+### NLP for fake news detections
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The goal was to develop a machine learning model for classifying news articles as either reliable or unreliable based on their content. The project encompassed data preprocessing, data analysis and data exploration tasks in the text. Several machine learning models were trained and evaluated. Additionally, model interpretability was explored using SHAP values to understand the key features influencing predictions. Finally, a machine learning pipeline was established for text classification, making it possible to predict the reliability of news articles using the trained model.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
+[![](https://img.shields.io/badge/numpy-white?logo=numpy)](#)
+[![](https://img.shields.io/badge/nltk-white?logo=nltk)](#)
+[![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#)
+[![](https://img.shields.io/badge/scikit-learn-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/shap-white?logo=shap)](#)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Fake_news/fake_news.ipynb)
 
 ---
 
