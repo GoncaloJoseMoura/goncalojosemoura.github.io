@@ -1,7 +1,7 @@
 title: Gonçalo Moura # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, I have built this portfolio to help showcase some of the skills i have aquired this past year. I have been working as a Data Scientist for a brand protection company, and some of my responsibilities included:<br>
+  Hi, I have built this portfolio to showcase some of the skills i have aquired this past year. I have been working as a Data Scientist for a brand protection company, and some of my responsibilities included:<br>
   - Developing a Large Language Model for trademark usage analysis.<br>
   - Creating online entity risk profiles with unsupervised learning.<br>
   - Constructing project APIs for seamless production integration.<br>
@@ -9,7 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Fine-tunning a quantisized Large Language model for a classification problem.<br>
   - Modeling airline ticket prices through regression analysis.<br>
   - Developing a website scraper for content categorization.<br>
-  <br><br>
   <a href="https://www.linkedin.com/in/goncalo-j-moura/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0

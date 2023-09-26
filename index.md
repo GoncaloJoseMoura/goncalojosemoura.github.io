@@ -20,10 +20,3 @@ The goal was to develop a machine learning model for classifying news articles a
 [View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Fake_news/fake_news.ipynb)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
