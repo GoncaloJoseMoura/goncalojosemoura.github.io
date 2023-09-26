@@ -1,7 +1,14 @@
 title: Gonçalo Moura # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a Data Scientist with a strong background in Mathematics and Computer Science. I'm passionate about using AI and machine learning algorithms to uncover valuable insights from complex datasets. I also enjoy automating processes for efficient decision-making. My ultimate goal is to contribute to ambitious projects that strive to make an impact and drive meaningful change in the world.
+  Hi, i have built this portfolio to help showcase some of the skills i have aquired this past year. I have been working as a Data Scientist for a brand protection company, and some of my responsibilities included<br>
+  - Developing a Large Language Model for trademark usage analysis.
+  - Creating online entity risk profiles with unsupervised learning.
+  - Constructing project APIs for seamless production integration.
+  I will be updating this portfolio as i go, and some of the projects i am working on are:
+  - fine-tunning a quantisized Large Language model for a classification problem
+  - modeling airline ticket prices through regression analysis.
+  - Developing a website scraper for content categorization.
   <br><br>
   <a href="https://www.linkedin.com/in/goncalo-j-moura/">View My LinkedIn Profile</a> 
   

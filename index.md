@@ -6,25 +6,7 @@
 
 The goal was to develop a machine learning model for classifying news articles as either reliable or unreliable based on their content. The project included text data preprocessing, data analysis, and data exploration tasks. Several machine learning models were trained and evaluated. Additionally, model interpretability was explored using SHAP values to understand the key features influencing predictions. Finally, packaged the preprocessing steps and the trained model into a machine learning pipeline making it possible to predict the reliability of news articles in a single line.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; max-width: 300px;">
-    <img src="images/preprocessing_methods.jpeg?raw=true" alt="Preprocessing Methods" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; max-width: 300px;">
-    <img src="images/ROC_AUC_LR_CURVE.jpeg?raw=true" alt="ROC AUC Curve" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; max-width: 300px;">
-    <img src="images/shap_beeswarm.jpeg?raw=true" alt="SHAP Beeswarm" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; max-width: 300px;">
-    <img src="images/shap_waterfall.jpeg?raw=true" alt="SHAP Waterfall" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
-
+<img src="images/Fake_news.jpeg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
