@@ -26,7 +26,7 @@ The goal was to develop a machine learning model for classifying news articles a
 This project centered on utilizing regression techniques to create a robust model for accurately predicting airline ticket prices. It involved extensive data preprocessing, feature engineering, and exploration. the model performance was optmized through hyperparameter tuning.
 
 
-<img src="images/Airlines_summary.jpg?raw=true" />
+<img src="images/Airline_summary.jpg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
