@@ -4,7 +4,9 @@
 
 ### NLP for fake news detections
 
-The goal was to develop a machine learning model for classifying news articles as either reliable or unreliable based on their content. The project included text data preprocessing, data analysis, and data exploration tasks. Several machine learning models were trained and evaluated. Additionally, model interpretability was explored using SHAP values to understand the key features influencing predictions. Finally, packaged the preprocessing steps and the trained model into a machine learning pipeline making it possible to predict the reliability of news articles in a single line.
+Fake news is a serious problem that can have a negative impact on society. It can be used to spread misinformation, propaganda, and hate speech. It can also be used to manipulate public opinion and interfere with elections.<br>
+This project developed a machine learning model to classify news articles as either reliable or unreliable based on their content. The model can be used to help people identify fake news and make more informed decisions about the information they consume.
+
 
 <img src="images/Fake_news.jpeg?raw=true" />
 
@@ -23,7 +25,8 @@ The goal was to develop a machine learning model for classifying news articles a
 
 ### Regression for Airline Ticket Price Prediction
 
-This project centered on utilizing regression techniques to create a robust model for accurately predicting airline ticket prices. It involved extensive data preprocessing, feature engineering, and exploration. the model performance was optmized through hyperparameter tuning.
+Airline ticket prices are notoriously difficult to predict, as they are influenced by a variety of factors, including the date of travel, the origin and destination airports, the time of day, and the airline itself. This can make it difficult for travelers to find the best deals on flights, and for airlines to set optimal prices.<br>
+This project developed a regression model to predict airline ticket prices based on a variety of factors. The model can be used by travelers to find the best deals on flights, and by airlines to set optimal prices.
 
 
 <img src="images/Airline_summary.jpg?raw=true" />
@@ -36,5 +39,21 @@ This project centered on utilizing regression techniques to create a robust mode
 [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 [View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Airlines/IndianAirlines.ipynb)
+
+---
+
+### YouTube content summarization
+
+YouTube creators are incentivized to create longer videos in order to show more ads and generate more revenue. This can lead to videos that are off-topic, repetitive, or padded out with unnecessary content.
+<br>
+This project aims to develop a system that can automatically summarize the content of a YouTube video into a short snippet, eliminating redundant and off-topic sentences. This system can be used to help viewers quickly understand the key points of a video without having to watch the entire thing.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/HugginFace?logo=HugginFace)](#)
+[![](https://img.shields.io/badge/Spacy?logo=Spacy)](#)
+[![](https://img.shields.io/badge/nltk-white?logo=nltk)](#)
+
+[View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Youtube_summarization/youtube_summarization.ipynb)
 
 ---
