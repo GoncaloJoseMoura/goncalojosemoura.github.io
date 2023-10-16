@@ -50,8 +50,8 @@ This project aims to develop a system that can automatically summarize the conte
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-[![](https://img.shields.io/badge/HugginFace?logo=HugginFace)](#)
-[![](https://img.shields.io/badge/Spacy?logo=Spacy)](#)
+[![](https://img.shields.io/badge/HugginFace-white?logo=HugginFace)](#)
+[![](https://img.shields.io/badge/spaCy?logo=spaCy)](#)
 [![](https://img.shields.io/badge/nltk-white?logo=nltk)](#)
 
 [View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Youtube_summarization/youtube_summarization.ipynb)
