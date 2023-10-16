@@ -51,7 +51,7 @@ This project aims to develop a system that can automatically summarize the conte
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/HugginFace-white?logo=HugginFace)](#)
-[![](https://img.shields.io/spacy/v/spacy.svg?logo=spaCy)](#)
+[![](https://img.shields.io/badge/spacy-white?logo=spacy)](#)
 [![](https://img.shields.io/badge/nltk-white?logo=nltk)](#)
 
 
