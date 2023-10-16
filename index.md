@@ -8,7 +8,7 @@ Fake news is a serious problem that can have a negative impact on society. It ca
 This project developed a machine learning model to classify news articles as either reliable or unreliable based on their content. The model can be used to help people identify fake news and make more informed decisions about the information they consume.
 
 
-<img src="images/Fake_news.jpeg?raw=true" />
+[//]: # (<img src="images/Fake_news.jpeg?raw=true" />)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
@@ -29,7 +29,7 @@ Airline ticket prices are notoriously difficult to predict, as they are influenc
 This project developed a regression model to predict airline ticket prices based on a variety of factors. The model can be used by travelers to find the best deals on flights, and by airlines to set optimal prices.
 
 
-<img src="images/Airline_summary.jpg?raw=true" />
+[//]: # (<img src="images/Airline_summary.jpg?raw=true" />)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
@@ -51,8 +51,9 @@ This project aims to develop a system that can automatically summarize the conte
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/HugginFace-white?logo=HugginFace)](#)
-[![](https://img.shields.io/badge/spaCy?logo=spaCy)](#)
+[![](https://img.shields.io/spacy/v/spacy.svg?logo=spaCy)](#)
 [![](https://img.shields.io/badge/nltk-white?logo=nltk)](#)
+
 
 [View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Youtube_summarization/youtube_summarization.ipynb)
 
