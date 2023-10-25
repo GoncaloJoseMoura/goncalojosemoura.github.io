@@ -1,4 +1,4 @@
-## Selected projects in data science, NLP and Computer Vision
+## Selected Projects in Data Science, NLP and Computer Vision
 
 ---
 ### Classification: Predicting Employee Attrition
