@@ -132,9 +132,3 @@ This project developed a regression model to predict airline ticket prices based
 [View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Airlines/IndianAirlines.ipynb)
 
 ---
-
-## Contact
-
-If you have any questions or would like to get in touch, please feel free to send me an email using the contact form below.
-
-{% include contact-form.html %}
