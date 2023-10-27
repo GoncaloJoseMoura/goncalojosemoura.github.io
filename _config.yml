@@ -6,11 +6,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Creating online entity risk profiles with unsupervised learning.<br>
   - Constructing project APIs for seamless production integration.<br>
   If you want you can request me a Demo on a Specific use-case by sending me an email <br>
-  <a href="goncalojosemoura@gmail.com">Email me</a> 
+  {% include contact-form.html %}
   <br>
   <a href="https://www.linkedin.com/in/goncalo-j-moura/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-contact-form
 google_analytics: G-WKN8DL6R9M # your Google Analytics tracking ID here
