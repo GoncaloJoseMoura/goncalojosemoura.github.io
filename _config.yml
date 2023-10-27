@@ -5,8 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Developing a Large Language Model to identify fairly used content.<br>
   - Creating online entity risk profiles with unsupervised learning.<br>
   - Constructing project APIs for seamless production integration.<br>
-  If you want you can request me a Demo on a Specific use-case by sending me an email <br>
-  {% include contact-form.html %}
   <br>
   <a href="https://www.linkedin.com/in/goncalo-j-moura/">View My LinkedIn Profile</a> 
   
