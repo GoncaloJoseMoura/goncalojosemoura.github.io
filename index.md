@@ -97,7 +97,7 @@ This project aims to develop a customer market segmentation model. This model wi
 
 ---
 
-### Store Sales Forecasting
+### TimeSeries: Store Sales Forecasting
 
 Store sales forecasting is the process of predicting future sales based on historical data. This is an important task for businesses of all sizes, as it can help them to make informed decisions about inventory, staffing, and marketing.
 <br>
