@@ -13,7 +13,7 @@ This project aims to develop a machine learning model to predict employee attrit
 [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#)
 [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
-[View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/Human_Resources/HR_Attrition.ipynb)
+[View code on Github](https://github.com/GoncaloJoseMoura/Projects/blob/main/HR/HR_Attrition.ipynb)
 
 ---
 ### NLP: Fake News Detection
